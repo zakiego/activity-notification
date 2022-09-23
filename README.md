@@ -1,5 +1,9 @@
 # Telegram Bot to Monitor Turning On and Off The Computer
 
+> **Note**
+>
+> Script dan instalasi ditujukan untuk pengguna Linux. Untuk os selain itu perlu ada penyesuaian. Silakan buat _Issue_ atau _Pull request_ jika ingin menambahkan.
+
 ## Instalasi
 
 1. Buat bot Telegram melalui [@BotFather](http://t.me/BotFather)
